@@ -31,6 +31,3 @@ JavaScript: Implements dynamic features such as filtering subjects based on sele
 Overall, this Student Management System improves administrative efficiency, reduces manual errors, and offers an organized way to maintain and access student academic data.
 
 
-# Screenshots
-
-https://github.com/naaz-719/Student-Management-System/blob/main/index.jpg?raw=true
