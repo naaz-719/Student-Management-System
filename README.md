@@ -29,3 +29,8 @@ Bootstrap: Provides a modern, responsive design and consistent UI components.
 JavaScript: Implements dynamic features such as filtering subjects based on selected departments and auto-filling enrollment numbers.
 
 Overall, this Student Management System improves administrative efficiency, reduces manual errors, and offers an organized way to maintain and access student academic data.
+
+
+# Screenshots
+
+https://github.com/naaz-719/Student-Management-System/blob/main/index.jpg?raw=true
